@@ -20,10 +20,6 @@ There is only one spaceship which serves every developer needs. Below is the end
 https://spaceship.manomite.net
 ```
 
-{% hint style="warning" %}
-Connections are only allowed through secured environments.
-{% endhint %}
-
 Once you're **strong enough**, to drive the spaceship then you can commence to the next step.
 
 What do I mean by the phrase **strong enough.** To be strong enough, you must make sure you have a secured development environment. If you are working from localhost, please install SSL on your local development machine to avoid being blocked  by the Manomite Spaceship Sentinels.
