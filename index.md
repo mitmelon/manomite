@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+---
+description: Introduction to Manomite
+---
 
-You can use the [editor on GitHub](https://github.com/mitmelon/manomite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is Manomite
 
-### Markdown
+Manomite is an endless possibilities to healthcare. Its a **centralized** planet, to **improve the quality of health** service delivery through a **technology driven solutions**, which create platform for interactions between the medical personnel, medical service provider, hospitals, clinics, care-givers and all other health institution across Africa.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Majorly Manomite focuses on **Telemedicine, Data Managements, Payments, Research, Connections and Healthcare Security.**
 
-```markdown
-Syntax highlighted code block
+As a developer, you can leverage on most of Manomite powerful micro services into your EMR Applications or any inline healthcare applications.
 
-# Header 1
-## Header 2
-### Header 3
+To travel to Manomite Planet as a developer, you must have a Spaceship 😜 Not really a NASA Spaceship. When I say Spaceship, it means you will need the Manomite Endpoint and your key to ship data or export data or use advanced tools using AI etc.
 
-- Bulleted
-- List
+There is only one spaceship which serves every developer needs. Below is the endpoint.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+https://spaceship.manomite.net
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+{% hint style="warning" %}
+Connections are only allowed through secured environments.
+{% endhint %}
 
-### Jekyll Themes
+Once you're **strong enough**, to drive the spaceship then you can commence to the next step.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mitmelon/manomite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+What do I mean by the phrase **strong enough.** To be strong enough, you must make sure you have a secured development environment. If you are working from localhost, please install SSL on your local development machine to avoid being blocked  by the Manomite Spaceship Sentinels.
