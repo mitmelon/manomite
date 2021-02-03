@@ -20,9 +20,10 @@ There is only one spaceship which serves every developer needs. Below is the end
 https://spaceship.manomite.net
 ```
 
-{% hint style="warning" %}
+```
 Connections are only allowed through secured environments.
 {% endhint %}
+```
 
 Once you're **strong enough**, to drive the spaceship then you can commence to the next step.
 
