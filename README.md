@@ -17,7 +17,7 @@ To travel to Manomite Planet as a developer, you must have a Spaceship 😜 Not 
 There is only one spaceship which serves every developer needs. Below is the endpoint.
 
 ```
-https://spaceship.manomite.net
+https://api.manomite.net
 ```
 
 Once you're **strong enough**, to drive the spaceship then you can commence to the next step.

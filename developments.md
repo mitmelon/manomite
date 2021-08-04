@@ -8,7 +8,7 @@ description: We are coming soon
 
 ### Progress
 
-* Work is ongoing on the tools sections for hospitals and should be completed soon 
+* We are working hard to release all the api documentations for you to use in your EMR Applications.
 
 
 
